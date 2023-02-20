@@ -37,10 +37,8 @@ body {
 }
 
 #post {
-<<<<<<< HEAD
     background: white;
     padding: 1em;
-=======
     font-size: 20px;
 }
 
@@ -49,5 +47,4 @@ body {
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
